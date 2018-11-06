@@ -1,0 +1,4 @@
+https://github.com/ohbm/brain-hacking-101/blob/master/beginner-python/004-interactions.ipynb
+https://github.com/ohbm/brain-hacking-101
+https://github.com/practical-neuroimaging/pna-notebooks
+https://practical-neuroimaging.github.io/
